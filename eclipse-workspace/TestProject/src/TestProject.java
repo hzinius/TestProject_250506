@@ -5,7 +5,7 @@ public class TestProject {
 	public static void main(String[] args) {
 		System.out.println("Hello");
 		System.out.println("Hello2");
-		/*
+		
 		// p.65 더하기 예
 		Scanner input = new Scanner(System.in);
 		int x;
@@ -21,7 +21,7 @@ public class TestProject {
 		sum = x + y;
 		
 		System.out.println("두 숫자의 합은 : "+sum);
-		
+		/*
 		//p.121 1부터 10까지의 합 구하
 		int sum = 0;
 		
